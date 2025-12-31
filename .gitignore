@@ -1,0 +1,26 @@
+# --- FRONTEND (React/Node) ---
+node_modules/
+dist/
+build/
+.env
+.env.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- BACKEND (Java/Spring Boot) ---
+target/
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.log
+
+# --- IDEs y Sistema Operativo (Basura de configuración) ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
